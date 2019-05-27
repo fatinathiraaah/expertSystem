@@ -1,3 +1,2 @@
 # expertSystem
-for KRR project
-nothing!
+for Knowledge Representation and Reasoning course project
